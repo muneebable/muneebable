@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/muneebable/muneebable/master/assets/gifs/muneeb_profile.gif)](https://muneebable.github.io/)[newtab]
+[![](https://raw.githubusercontent.com/muneebable/muneebable/master/assets/gifs/muneeb_profile.gif)](https://muneebable.github.io/){:target="_blank"}
 ### Hi there 👋
 
 <!--
