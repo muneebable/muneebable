@@ -1,5 +1,5 @@
 [![](https://raw.githubusercontent.com/muneebable/muneebable/master/assets/gifs/muneeb_profile.gif)](https://muneebable.github.io/)
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/muneebable/muneebable/master/assets/gifs/wave.gif" width="30px" height="30px" />
 
 <!--
 **muneebable/muneebable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
