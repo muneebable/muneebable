@@ -1,11 +1,10 @@
 [![](https://raw.githubusercontent.com/muneebable/muneebable/master/assets/gifs/muneeb_profile.gif)](https://muneebable.github.io/)
 # Hello, folks! <img src="https://raw.githubusercontent.com/muneebable/muneebable/master/assets/gifs/wave.gif" width="30px" height="30px" />
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=muneebable.muneeb2405" alt="visitors"></p>
+<p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=muneebable.muneeb2405" alt="visitors"> </img>
+</p> 
 
-![Github Badge](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)(https://github.com/muneeb699)
-
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/muneeb--ul--hassan/)
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=muneebable&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -17,8 +16,8 @@
 </p>
 
 <!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=muneebable&repo=ytdx">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=muneebable&repo=pixel-weather">
 </p> -->
 
 <!--
