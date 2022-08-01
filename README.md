@@ -2,13 +2,13 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/muneebable/muneebable/master/assets/gifs/wave.gif" width="30px" height="30px" />
 
 <p>
-<a href="https://www.instagram.com/muneebable/">
+<a href="https://www.instagram.com/muneebable/" target="_blank">
   <img align="left" alt="Muneeb's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/muneebale">
+<a href="https://twitter.com/muneebable" target="_blank">
   <img align="left" alt="Muneeb | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/muneebable/">
+<a href="https://www.linkedin.com/in/muneeb--ul--hassan/" target="_blank">
   <img align="left" alt="Muneeb's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
  <img src="https://visitor-badge.glitch.me/badge?page_id=muneebable.muneeb2405" alt="visitors"> </img>
