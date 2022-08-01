@@ -12,6 +12,7 @@
   <img align="left" alt="Muneeb's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
  <img src="https://visitor-badge.glitch.me/badge?page_id=muneebable.muneeb2405" alt="visitors"> </img>
+ <a href="https://www.kaggle.com/muneeb2405/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="22px"></a>
 </p> 
 
 
