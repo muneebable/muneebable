@@ -23,7 +23,7 @@
 
 ## ⚙️ Skills & Specialties
 
-```yaml
+
 Languages:
   - Python 🐍
   - R 📈
