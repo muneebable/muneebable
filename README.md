@@ -89,7 +89,7 @@ class ArcaneDeveloper:
 
 <!-- MYSTICAL CONTRIBUTION SNAKE -->
 <div align="center">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/muneebable/muneebable/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/crystal-ball.gif" width="25px"> Arcane Artifacts
