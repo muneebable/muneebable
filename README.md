@@ -47,6 +47,7 @@ class DataScientist:
     
     def code(self):
         return "Transforming data into spells of insight ✨"
+```
 <br>
 📈 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muneebable&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebable&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=muneebable&theme=tokyonight&hide_border=true" /> </div> <br>
@@ -77,4 +78,4 @@ Frontend/Backend | React, Flask, FastAPI
 💼 LinkedIn: linkedin.com/in/muneebable
 
 <br> <!-- Dynamic Particle Effect (Optional Add for Personal Website) --> <!-- If you build a personal site, use something like Vanta.js "Halo" or "Net" effect for magical animated backgrounds. Example libraries: https://github.com/tengbao/vanta -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muneebable&label=Profile%20views&color=6A5ACD&style=flat" alt="profile views" /> </p> ```
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muneebable&label=Profile%20views&color=6A5ACD&style=flat" alt="profile views" /> </p>
