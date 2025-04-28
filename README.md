@@ -103,7 +103,7 @@ class ArcaneDeveloper:
   </a>
 </div>
 
-## <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/scroll.gif" width="25px"> Recent Incantations
+## <img src="https://raw.githubusercontent.com/muneebable/muneebable/main/assets/scroll.gif" width="25px"> Recent Incantations
 
 <!-- BLOG-POST-LIST:START -->
 - [Unraveling the Dark Mysteries of Neural Networks](https://yourblog.com/neural-networks)
