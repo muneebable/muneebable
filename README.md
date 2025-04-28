@@ -1,176 +1,69 @@
 <!-- Header Animation Banner -->
 [![Header](https://raw.githubusercontent.com/muneebable/muneebable/main/assets/header-banner.gif)](https://muneebable.github.io/)
 
-# Hello, fellow developers! <img src="https://raw.githubusercontent.com/muneebable/muneebable/main/assets/wave.gif" width="30px" height="30px" />
-
-<!-- Social Media Links -->
-<p>
-<a href="https://www.linkedin.com/in/muneebable/" target="_blank">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/muneebable" target="_blank">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/muneebable/" target="_blank">
-  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://medium.com/@muneebable" target="_blank">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.kaggle.com/muneebable" target="_blank">
-  <img align="left" alt="Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
-</a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=muneebable.muneebable" alt="visitors">
-</p>
-
-<br>
-
-## 💫 About Me
-
-```javascript
-const developer = {
-  name: "Your Name",
-  role: "Full Stack Developer", // Customize your role
-  education: "Computer Science Graduate",
-  location: "City, Country",
-  interests: ["Web Development", "Machine Learning", "Open Source", "UI/UX"],
-  currentlyLearning: ["Cloud Architecture", "React Native", "GraphQL"],
-  hobbies: ["Coding", "Reading", "Hiking", "Photography"],
-  funFact: "I can solve a Rubik's cube in under 2 minutes!"
-};
-```
-
-## 📊 GitHub Stats
+# 🧙‍♂️ Welcome, Wanderer...
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muneebable&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebable&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&hide=jupyter%20notebook,tex,css,php"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muneebable&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-</p>
-
-## 🛠️ Skills & Tools
-
-<details open>
-  <summary><b>Languages</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>Frontend</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>Backend</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>Database</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>DevOps & Cloud</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>Testing & Tools</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </p>
-</details>
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/muneebable/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muneebable&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/muneebable/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muneebable&repo=project2&theme=tokyonight" />
-  </a>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muneebable&theme=nord&column=7" />
-</p>
-
-## 📫 Get in Touch
-
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [linkedin.com/in/muneebable](https://linkedin.com/in/muneebable)
-- Twitter: [@muneebable](https://twitter.com/muneebable)
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/muneebable">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="buy me a coffee" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Data+Alchemist;+AI+Explorer;+Problem+Whisperer;" alt="Typing SVG" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muneebable&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 🧿 About Me
 
-<!-- 
-Fun fact section with typing animation (optional) - this requires a custom CSS component when you implement your site 
--->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Always+learning+new+things;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</p>
+> "In the depths of chaos, I find patterns. In the sea of noise, I summon insight."
+
+- 🧠 **Data Scientist** | **AI Practitioner** | **Explorer of the Unknown**
+- 🕰️ **5+ years** crafting data-driven solutions across industries
+- 🛠️ Merging **machine learning**, **deep learning**, **big data**, and **software engineering** into one enchanted craft
+- 🧬 Advocate for **explainable AI**, **responsible tech**, and **lifelong learning**
+- 🎯 Currently researching **generative models**, **LLMs**, and **real-world AI deployment**
+
+---
+
+## ⚙️ Skills & Specialties
+
+```yaml
+Languages:
+  - Python 🐍
+  - R 📈
+  - SQL 🧩
+  - Bash 🛡️
+  - C++ ⚔️
+
+Core Expertise:
+  - Machine Learning (Scikit-learn, XGBoost, LightGBM)
+  - Deep Learning (TensorFlow, PyTorch, HuggingFace)
+  - NLP (BERT, GPT, LLaMA)
+  - Data Engineering (Airflow, Spark, Dask)
+  - Cloud (AWS, GCP)
+  - MLOps (Docker, Kubernetes, MLFlow)
+
+Hobbies:
+  - Reading fantasy lore 📜
+  - Chess knight maneuvers ♞
+  - Long forest walks 🌲
+
+
+🩸 GitHub Stats (Dark Realm)
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muneebable&show_icons=true&count_private=true&theme=dracula&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebable&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=muneebable&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"> </p>
+
+🧠 My Tools of Magic
+
+Category	Tools
+Languages	Python, R, SQL, Bash, C++
+Libraries/Frameworks	TensorFlow, PyTorch, Scikit-learn, FastAPI, Flask
+Cloud/DevOps	AWS (SageMaker, Lambda), GCP (Vertex AI), Docker, Kubernetes
+Data Engineering	Apache Airflow, Apache Spark, Dask, Kafka
+MLOps & Experiment Tracking	MLflow, Weights & Biases, DVC
+Visualization	Matplotlib, Seaborn, Plotly, PowerBI
+Databases	PostgreSQL, MongoDB, BigQuery
+
+
+🔮 Featured Projects
+<p align="center"> <a href="https://github.com/muneebable/project1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=muneebable&repo=project1&theme=dracula" /> </a> <a href="https://github.com/muneebable/project2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=muneebable&repo=project2&theme=dracula" /> </a> </p>
+
+
+📡 Connect with Me Across the Realms
+<p align="center"> <a href="https://www.linkedin.com/in/muneebable/"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/muneebable"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://medium.com/@muneebable"> <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> </a> <a href="https://www.kaggle.com/muneebable"> <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muneebable&label=Profile%20views&color=7F00FF&style=flat" alt="Profile Views" /> </p>
