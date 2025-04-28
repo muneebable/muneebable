@@ -1,26 +1,26 @@
 <!-- Header Animation Banner -->
-[![Header](https://raw.githubusercontent.com/yourusername/yourusername/main/assets/header-banner.gif)](https://yourusername.github.io/)
+[![Header](https://raw.githubusercontent.com/muneebable/muneebable/main/assets/header-banner.gif)](https://muneebable.github.io/)
 
-# Hello, fellow developers! <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/wave.gif" width="30px" height="30px" />
+# Hello, fellow developers! <img src="https://raw.githubusercontent.com/muneebable/muneebable/main/assets/wave.gif" width="30px" height="30px" />
 
 <!-- Social Media Links -->
 <p>
-<a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+<a href="https://www.linkedin.com/in/muneebable/" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/yourusername" target="_blank">
+<a href="https://twitter.com/muneebable" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/yourusername/" target="_blank">
+<a href="https://www.instagram.com/muneebable/" target="_blank">
   <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://medium.com/@yourusername" target="_blank">
+<a href="https://medium.com/@muneebable" target="_blank">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://www.kaggle.com/yourusername" target="_blank">
+<a href="https://www.kaggle.com/muneebable" target="_blank">
   <img align="left" alt="Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
 </a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="visitors">
+<img src="https://visitor-badge.glitch.me/badge?page_id=muneebable.muneebable" alt="visitors">
 </p>
 
 <br>
@@ -43,12 +43,12 @@ const developer = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&hide=jupyter%20notebook,tex,css,php"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muneebable&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebable&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&hide=jupyter%20notebook,tex,css,php"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muneebable&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
 ## 🛠️ Skills & Tools
@@ -135,29 +135,29 @@ const developer = {
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
+  <a href="https://github.com/muneebable/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muneebable&repo=project1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
+  <a href="https://github.com/muneebable/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muneebable&repo=project2&theme=tokyonight" />
   </a>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muneebable&theme=nord&column=7" />
 </p>
 
 ## 📫 Get in Touch
 
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
 - Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- LinkedIn: [linkedin.com/in/muneebable](https://linkedin.com/in/muneebable)
+- Twitter: [@muneebable](https://twitter.com/muneebable)
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
+  <a href="https://www.buymeacoffee.com/muneebable">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="buy me a coffee" />
   </a>
 </p>
@@ -165,7 +165,7 @@ const developer = {
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=muneebable&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <!-- 
