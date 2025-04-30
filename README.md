@@ -167,7 +167,7 @@ const professionalJourney = {
 ### 🌀 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&color=AA77FF&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muneebable&theme=github-compact&color=AA77FF&bg_color=0d1117&hide_border=true" />
 </p>
 
 ---
@@ -175,5 +175,5 @@ const professionalJourney = {
 ### 🐍 Snake Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/muneebable/muneebable/output/github-contribution-grid-snake-dark.svg" />
 </p>
