@@ -43,26 +43,6 @@
         </p>
       </td>
     </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🔍 Computer Vision Object Detector</h3>
-        <p align="center">
-          <a href="https://github.com/muneebable/object-detection" target="_blank">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5zYnpzYnY5b3FicDZpNjZvb29wdGVwazZtcDcwNHprbWFrZTg4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif" width="100%" alt="Computer Vision Object Detector"/>
-          </a>
-          <span>Real-time object detection system with high accuracy and performance optimization</span>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎮 Reinforcement Learning Game AI</h3>
-        <p align="center">
-          <a href="https://github.com/muneebable/rl-game-ai" target="_blank">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTM5MW55c2w1OTR1bGtrN2Q5NW5mYXV2NnRyeXVrY2ltdWhpcTF1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100%" alt="Reinforcement Learning Game AI"/>
-          </a>
-          <span>Teaching AI agents to play complex games through reinforcement learning algorithms</span>
-        </p>
-      </td>
-    </tr>
   </table>
 </div>
 
