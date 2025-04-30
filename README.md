@@ -130,20 +130,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebable&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </div>
 
-## <div align="center">🔄 Recent Activity</div>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR in `muneebable/ai-recommendation-engine`
-2. 💡 Opened issue in `tensorflow/tensorflow`
-3. 🚀 Released version 2.0 of `muneebable/nlp-text-summarizer`
-4. 👨‍💻 Committed to `muneebable/reinforcement-learning-exploration`
-5. 🤝 Contributed to `huggingface/transformers`
-<!--END_SECTION:activity-->
 
 ## <div align="center">📫 Connect With Me</div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/muneebable">
+  <a href="https://www.linkedin.com/in/muneeb--ul--hassan">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/muneebable">
@@ -159,10 +150,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=muneebable&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZ3OHJ5YXE5eTl5OXF0bWUyanA5MGsxM3ZvbHoxMHUzY2l4OWJrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
 </div>
 
 ### 🌀 Activity Graph
