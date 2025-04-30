@@ -28,7 +28,7 @@
         <h3 align="center">Plabster</h3>
         <p align="center">
           <a href="https://www.plabster.com" target="_blank">
-            <img src="https://www.plabster.com/cta.webm" width="100%" alt="AI Recommendation Engine"/>
+            <video src="https://www.plabster.com/cta.webm" width="100%" alt="AI Recommendation Engine"/>
           </a>
           <span>A sophisticated PLAB 2 Preparation Platform</span>
         </p>
