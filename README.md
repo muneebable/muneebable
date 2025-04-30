@@ -28,10 +28,7 @@
         <h3 align="center">Plabster</h3>
         <p align="center">
           <a href="https://www.plabster.com" target="_blank">
-            <img width="100%" controls>
-            <source src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh3ajVyazNjbjF5d3NqNDN5dDB6bDE3aDk5aHJheGhjNng2MTU3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpXaJA67JaSqSxq/giphy.gif">
-           
-          </video>
+             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXgwM2tmY3RiZzQ3ajhyOGN5cTRkdnJyYTY5NjhpcjBib3ZlOHJ6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%" alt="AI Recommendation Engine"/>
           </a>
           <span>A sophisticated PLAB 2 Preparation Platform</span>
         </p>
