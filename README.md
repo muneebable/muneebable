@@ -28,9 +28,9 @@
         <h3 align="center">Plabster</h3>
         <p align="center">
           <a href="https://www.plabster.com" target="_blank">
-            <video width="100%" controls>
-            <source src="https://www.plabster.com/cta.webm" type="video/webm">
-            Your browser does not support the video tag or the video format.
+            <img width="100%" controls>
+            <source src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh3ajVyazNjbjF5d3NqNDN5dDB6bDE3aDk5aHJheGhjNng2MTU3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpXaJA67JaSqSxq/giphy.gif">
+           
           </video>
           </a>
           <span>A sophisticated PLAB 2 Preparation Platform</span>
