@@ -164,6 +164,16 @@ const professionalJourney = {
   <img src="https://komarev.com/ghpvc/?username=muneebable&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZ3OHJ5YXE5eTl5OXF0bWUyanA5MGsxM3ZvbHoxMHUzY2l4OWJrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
-</div>
+### 🌀 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&color=AA77FF&bg_color=0d1117&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+</p>
