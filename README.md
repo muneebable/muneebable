@@ -28,7 +28,10 @@
         <h3 align="center">Plabster</h3>
         <p align="center">
           <a href="https://www.plabster.com" target="_blank">
-            <video src="https://www.plabster.com/cta.webm" width="100%" alt="AI Recommendation Engine"/>
+            <video width="100%" controls>
+            <source src="https://www.plabster.com/cta.webm" type="video/webm">
+            Your browser does not support the video tag or the video format.
+          </video>
           </a>
           <span>A sophisticated PLAB 2 Preparation Platform</span>
         </p>
