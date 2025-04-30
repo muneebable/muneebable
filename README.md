@@ -110,6 +110,9 @@
   <a href="https://kaggle.com/muneeb2405">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+  <a href="https://huggingface.co/muneebable">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
 </div>
 
 <div align="center">
