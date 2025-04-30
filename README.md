@@ -8,19 +8,16 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHo3cWt2czV0YWM2c2tmamwwbjI3YnB2a3dqbDYwenB3cHJibHAyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
 
-## <div align="center">💼 Professional Journey</div>
+## <div align="center">👨‍💻 About Me</div>
 
-```javascript
-const professionalJourney = {
-  currentRole: "Data Scientist",
-  yearsOfExperience: 5,
-  focusAreas: ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
-  aiTools: ["TensorFlow", "PyTorch", "Hugging Face", "OpenAI API", "LangChain"],
-  languages: ["Python", "SQL", "R", "JavaScript"],
-  dataTools: ["Pandas", "NumPy", "scikit-learn", "Matplotlib", "Plotly"],
-  cloudPlatforms: ["AWS", "GCP", "Azure"]
-};
-```
+<div align="center">
+  <ul align="left" style="list-style-position: inside; padding-left: 20px; display: inline-block; text-align: left;">
+    <li>🧠 Data Scientist with <b>5 years</b> experience</li>
+    <li>🕹️ Part-time indie maker exploring <b>AI-powered ideas</b></li>
+    <li>🛠️ Passionate about building small tools and products with real-world impact</li>
+    <li>🎯 Currently experimenting with open-source AI, ML automation, and web apps</li>
+  </ul>
+</div>
 
 ## <div align="center">🔥 My Latest AI Projects</div>
 
@@ -162,6 +159,10 @@ const professionalJourney = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=muneebable&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZ3OHJ5YXE5eTl5OXF0bWUyanA5MGsxM3ZvbHoxMHUzY2l4OWJrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
 </div>
 
 ### 🌀 Activity Graph
