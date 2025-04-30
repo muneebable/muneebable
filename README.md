@@ -34,12 +34,12 @@
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">🧠 NLP Text Summarizer</h3>
+        <h3 align="center">🐦‍🔥 Imagi Kids </h3>
         <p align="center">
-          <a href="https://github.com/muneebable/nlp-text-summarizer" target="_blank">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWh4OTM2MnN3ZjdmZnMzdHdnOHcwdWNrOGpvYnVtdndvYXE3NGxvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="NLP Text Summarizer"/>
+          <a href="https://imagi-kids.vercel.app/" target="_blank">
+            <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pmbXZ5bnk5MnpxMnJhMGw1NHVtN205NG8zZm4wNm41Z214Y2RoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G9lsvS2xMDvs7OnXXs/giphy.gif" width="100%" alt="NLP Text Summarizer"/>
           </a>
-          <span>Transforming long documents into concise, meaningful summaries using state-of-the-art NLP techniques</span>
+          <span>Enchanting Stories for Kids</span>
         </p>
       </td>
     </tr>
