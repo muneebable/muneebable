@@ -37,7 +37,7 @@
         <h3 align="center">🐦‍🔥 Imagi Kids </h3>
         <p align="center">
           <a href="https://imagi-kids.vercel.app/" target="_blank">
-            <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pmbXZ5bnk5MnpxMnJhMGw1NHVtN205NG8zZm4wNm41Z214Y2RoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G9lsvS2xMDvs7OnXXs/giphy.gif" width="100%" alt="NLP Text Summarizer"/>
+            <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t6OXdtOG5mZzZjMmlib2RnNjgyZGxwdHFnb3gwOW5ja3luN29vYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqZmmm3JQgoH7aey4J/giphy.gif" width="100%" alt="NLP Text Summarizer"/>
           </a>
           <span>Enchanting Stories for Kids</span>
         </p>
