@@ -25,10 +25,10 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🤖 AI-Powered Recommendation Engine</h3>
+        <h3 align="center">Plabster</h3>
         <p align="center">
-          <a href="https://github.com/muneebable/ai-recommendation-engine" target="_blank">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXgwM2tmY3RiZzQ3ajhyOGN5cTRkdnJyYTY5NjhpcjBib3ZlOHJ6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%" alt="AI Recommendation Engine"/>
+          <a href="https://www.plabster.com" target="_blank">
+            <img src="https://www.plabster.com/logo.png" width="100%" alt="AI Recommendation Engine"/>
           </a>
           <span>A sophisticated recommendation system using collaborative filtering and deep learning</span>
         </p>
